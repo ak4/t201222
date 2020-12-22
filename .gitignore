@@ -1,3 +1,54 @@
+######################
+# 2019-03-02 12:10:03 (星期六)
+# my ignore files    #
+######################
+
+#.vscode
+
+*.7z
+*.zip
+*.pdf
+*.jpg
+*.png
+*.bmp
+*.gif
+*.tif
+*.tiff
+*.psd
+*.ai
+
+*.tgz
+*.bak
+*.log
+*.[oa]
+.*.marks
+\#*\#
+logs/
+qlogs/
+datas/
+.sass-cache/
+**/.sass-cache
+**/.sass-cache/*
+**/.sass-cache/**
+*.css.map
+*.sass.map
+*.scss.map
+
+######################
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+*~
+ehthumbs.db
+Thumbs.db
+
+######################
+# laravel            #
+######################
 /vendor/
 node_modules/
 npm-debug.log
